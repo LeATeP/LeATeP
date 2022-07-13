@@ -1,16 +1,22 @@
-### Hi there 👋
+## Experience
+* Building - [Website, Scripts, OS Configuration]
+* Making - [Front-end, Back-end, Sockets server, API's, Discord Bot]
+* Configure - [Docker image's, Container's]
 
-<!--
-**LeATeP/LeATeP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* Languages - [Python, Golang, Javascript, Bash, SQL, Lua]
+* Framework - [Flask, FastAPI, Gin]
+* Database  - [PostgreSQL]
+* OS - [Linux Ubuntu, Windows 10]
+* Dev-Tools - [Docker, VirtualBox, Ansible]
+* Coding-Tools - [Vscode, Vim, Tmux]
 
-Here are some ideas to get you started:
+## Contact
+* Discord: LeATeP#5219
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SQL, Completed puzzle
+> <http://mystery.knightlab.com>
+![Imgur Image](https://i.imgur.com/tzkiEqp.png)
+
+
+
